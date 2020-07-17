@@ -23,5 +23,56 @@
       "temperature":25,
       "outputPower":25,
       "Origin":"Ar Interno"
+   },
+   {
+      "temperature":8,
+      "outputPower":8,
+      "Origin":"IGBT-U"
+   },
+   {
+      "temperature":13,
+      "outputPower":13,
+      "Origin":"IGBT-V"
+   },
+   {
+      "temperature":18,
+      "outputPower":18,
+      "Origin":"IGBT-W"
+   },
+   {
+      "temperature":23,
+      "outputPower":23,
+      "Origin":"Retificador"
+   },
+   {
+      "temperature":28,
+      "outputPower":28,
+      "Origin":"Ar Interno"
+   },
+   {
+      "temperature":11,
+      "outputPower":11,
+      "Origin":"IGBT-U"
+   },
+   {
+      "temperature":16,
+      "outputPower":16,
+      "Origin":"IGBT-V"
+   },
+   {
+      "temperature":21,
+      "outputPower":21,
+      "Origin":"IGBT-W"
+   },
+   {
+      "temperature":25,
+      "outputPower":25,
+      "Origin":"Retificador"
+   },
+   {
+      "temperature":31,
+      "outputPower":31,
+      "Origin":"Ar Interno"
    }
+   
 ]
